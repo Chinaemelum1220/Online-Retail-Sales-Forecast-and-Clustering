@@ -142,6 +142,10 @@ The chart reveals how customers behave based on Recency (when last they made a p
 
 **Blue (Low Purchase):** These products haven’t been bought in a long time and also aren’t purchased often.
 
+**Segment Distribution**
+
+![](product_segment.png)
+
 
 
 ### 3.  PREDICTIVE MODELLING FOR CLASSIFICATION
