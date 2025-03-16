@@ -254,12 +254,6 @@ Introduce discounts, free trials, or bundled offerings to encourage purchases.
 This analysis provided a robust framework for customer segmentation, predictive modeling, and sales forecasting. The insights gained can drive data-informed business strategies, improving customer engagement and revenue growth.
 By continuously refining our models and incorporating additional data points, we can further enhance prediction accuracy and uncover deeper business opportunities.
 
-## Team Members
-- Kudimfon Paul
-- Osita Emmanuel
-- Harrison Ebipre
-- Chinaemelum Ndidi_Chukwuka
-- 
 ### Jupyter Notebook for the Analysis and Coding Procedures:
 
 Customer segmentation (1).ipynb
